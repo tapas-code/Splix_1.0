@@ -1,0 +1,6 @@
+@Splix_HostAddress = http://localhost:5202
+
+GET {{Splix_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
